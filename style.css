@@ -1,0 +1,12 @@
+main > article{    /* Tout les articles contenu dans main */
+
+opacity: 0;
+height: 0;
+}
+
+.affiche{
+    opacity: 1;
+    height: auto;
+    transition: 1s;
+}
+
